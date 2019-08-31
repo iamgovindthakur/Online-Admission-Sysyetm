@@ -23,3 +23,25 @@ OBJECTIVE
 •	Database maintained by this system usually contains the student’s personal and academic related information. It focuses on storing and processing data by using web pages.
 
 •	To make the system more user friendly. 
+
+#Programming Languauge Used
+
+• PHP
+• HTML
+• CSS
+• JAVASCRIPT
+• BOOTSTRAP
+• JQUERY
+• MYSQL
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+#                                                                                                                 #
+#      PROJECT OWNER:                                                                                             #
+#               -> GOVIND KUMAR THAKUR                                                                            #
+#               -> IAMGOVINDTHAKUR@GMAIL.COM                                                                      #
+#               -> 9110466932                                                                                     #
+#               -> DO CONTACT IF YOU HAVE ANY QUESTION REGARDING THIS PROJECT?                                    #
+#                                                                                                                 #
+#                                                                                                                 #
+#                                                                                                                 #
+#                                                                                                                 #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
