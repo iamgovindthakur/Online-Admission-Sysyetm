@@ -3,7 +3,7 @@
 
 •	The system enables the student to fill application forms online and submit it. They also submit their necessary documents like passport size photograph, certificates and marksheets along with the identity proof. 
 
-•	The Manager can view the application forms and can approve or disapprove them. He can submit the CUEE marks of the students.
+•	The Manager can view the application forms and can approve or disapprove them. He can submit the exam marks of the students.
 
 •	If it is approved, an email will be sent to the Student’s email ID and the admit card can be downloaded from the student’s account. The students can further view their results. 
 
